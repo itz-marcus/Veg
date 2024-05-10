@@ -1,0 +1,22 @@
+.col-2{
+    margin: 2px;
+    text-align: left;
+}
+.col-9{
+text-align: left;
+}
+.error{
+    background-color: rgb(237, 206, 211);
+    color: maroon;
+    border-radius: 3px;
+    height: 40px;
+    margin-top: 10px;
+    padding: 5px;    
+    box-shadow: 0px 0px 0px 0.4px maroon;    
+}
+.cards{
+    display: flex;
+}
+.side-bar button{
+    text-align: left;
+}
